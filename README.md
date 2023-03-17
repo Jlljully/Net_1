@@ -20,6 +20,7 @@ HOST: stackoverflow.com
 ### Ответ
 
 ![Скрин](https://github.com/Jlljully/Net_1/blob/main/Screenshot_2.png "telnet")
+
 ![Скрин](https://github.com/Jlljully/Net_1/blob/main/Screenshot_33.png "telnet")
 
 ```
@@ -39,13 +40,27 @@ HTTP 403 Forbidden — стандартный код ответа HTTP, озна
 
 ### Ответ
 
+**Код 307 - редирект:**
+
+![Скрин](https://github.com/Jlljully/Net_1/blob/main/Screenshot_4.png "F12")
+
+![Скрин](https://github.com/Jlljully/Net_1/blob/main/Screenshot_5.png "F12")
+
+**Самый долгий запрос выполнялся 297мс, если его развернуть, то увидим, что это GET**
+
 **Шаг 3.** Какой IP-адрес у вас в интернете?
 
 ### Ответ
 
+**Так как он статичный, не хочу показывать**
+
+![Скрин](https://github.com/Jlljully/Net_1/blob/main/Screenshot_6.png "IP")
+
 **Шаг 4.** Какому провайдеру принадлежит ваш IP-адрес? Какой автономной системе AS? Воспользуйтесь утилитой `whois`.
 
 ### Ответ
+
+![Скрин](https://github.com/Jlljully/Net_1/blob/main/Screenshot_7.png "whois")
 
 **Шаг 5.** Через какие сети проходит пакет, отправленный с вашего компьютера на адрес 8.8.8.8? Через какие AS? Воспользуйтесь утилитой `traceroute`.
 
