@@ -66,16 +66,24 @@ HTTP 403 Forbidden — стандартный код ответа HTTP, озна
 
 ### Ответ
 
+![Скрин](https://github.com/Jlljully/Net_1/blob/main/Screenshot_8.png "whois")
+
 **Шаг 6.** Повторите задание 5 в утилите `mtr`. На каком участке наибольшая задержка — delay?
 
 ### Ответ
 
+![Скрин](https://github.com/Jlljully/Net_1/blob/main/Screenshot_9.png "mtr")
+
 **Шаг 7.** Какие DNS-сервера отвечают за доменное имя dns.google? Какие A-записи? Воспользуйтесь утилитой `dig`.
 
 ### Ответ
+
+![Скрин](https://github.com/Jlljully/Net_1/blob/main/Screenshot_10.png "dig")
 
 **Шаг 8.** Проверьте PTR записи для IP-адресов из задания 7. Какое доменное имя привязано к IP? Воспользуйтесь утилитой `dig`.
 
 *В качестве ответов на вопросы приложите лог выполнения команд в консоли или скриншот полученных результатов.*
 
 ### Ответ
+
+![Скрин](https://github.com/Jlljully/Net_1/blob/main/Screenshot_11.png "dig")
